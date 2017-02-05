@@ -2,4 +2,13 @@
 I'm learning about git
  **bold** or *iltalics*
  
- 1st elements
+ 
+ ###header
+ 
+ List:
+ 
+ 
+ * 1st element
+ * 2nd element
+ 
+ sentence
